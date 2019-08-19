@@ -1,7 +1,6 @@
 # PREREQUISITES
-* Webserver with PHP version >= 7.0 (PHP CLI should be available)
+* Webserver with PHP version >= 7.1 (PHP CLI should be available)
 * Database including driver for PHP (mysql and sqlite work out of the box)
-* (optional) PHP composer installed
 
 # INSTALLATION
 * Extract/put the whole "crudkit" folder (this is your laravel root directory from now on) to your webservers <htdocs> directory.
