@@ -7,6 +7,6 @@
 * Extract/put the whole "crudkit" folder (this is your laravel root directory from now on) to your webservers <htdocs> directory.
 	
 ## SETUP & MORE
-The next steps are the same as in [crudkit](https://github.com/alddesign/crudkit)
-So please check out: [readme-installation](https://github.com/alddesign/crudkit/blob/master/readme-installation.md) starting with "SETUP"
+The next steps are the same as in [alddesign/crudkit](https://github.com/alddesign/crudkit)
+So please check out: [alddesign/crudkit/readme-installation](https://github.com/alddesign/crudkit/blob/master/readme-installation.md) starting with "SETUP ON WEBSERVER"
 
