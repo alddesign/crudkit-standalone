@@ -5,5 +5,5 @@ Crudkit is a laravel based project which lets you create Ui Webpages from a give
 Crudkit-standalone is a ready to use laravel project with crudkit installed. (no need to deal with composer).
 If you want to integrate crudkit into an existing laravel project check out [alddesign/crudkit](https://github.com/alddesign/crudkit)
 
-## Installation and Setup
-Check out [readme-installation](./readme-installation.md)
+## Getting started
+For the first steps check out: [readme-installation](./readme-installation.md)
