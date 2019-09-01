@@ -6,4 +6,4 @@ Crudkit-standalone is a ready to use laravel project with crudkit installed. (no
 If you want to integrate crudkit into an existing laravel project check out [alddesign/crudkit](https://github.com/alddesign/crudkit)
 
 ## Installation and Setup
-Check [readme-setup.md](./readme-setup.md)
+Check out [readme-installation](./readme-installation.md)
