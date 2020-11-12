@@ -1,0 +1,7 @@
+crudkit\vendor\alddesign\crudkit\doc\*.phar
+crudkit\vendor\alddesign\crudkit\doc\*.txt
+crudkit\vendor\alddesign\crudkit\doc\*.css
+crudkit\vendor\alddesign\crudkit\doc\*.cmd
+crudkit\vendor\alddesign\crudkit\.gitignore
+crudkit\vendor\alddesign\crudkit\.git
+crudkit\vendor\alddesign\crudkit\src\.vscode
