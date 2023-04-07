@@ -4,8 +4,11 @@ CRUDKit standalone is a ready to use version of [alddesign/crudkit](https://gith
 
 It is configured to run the included sample database by default.
 
+**Download: [crudkit.zip](./crudkit.zip)**
+
 ## Getting started
 * An Apache 2 webserver with PHP version >= 8.0.2 is needed.
-* Extract the `crudkit.zip` and put the "crudkit" folder to your webservers `htdocs` directory. 
+* Download and extract [crudkit.zip](./crudkit.zip) 
+* Put the extracted "crudkit" folder to your webservers `htdocs` directory. 
 * This is your laravel root directory from now on.
 * The next steps are the same as for the original project. So please see "Setup on Webserver" section of the original project: [readme-installation#setup-on-webserver](https://github.com/alddesign/crudkit/blob/master/readme-installation.md#setup-on-webserver).
