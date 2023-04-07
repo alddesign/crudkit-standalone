@@ -1,9 +1,11 @@
-# README
-## About crudkit-standalone
-Crudkit is a laravel based project which lets you create Ui Webpages from a given Database within minutes.
+# CRUDKit standalone
+## About
+CRUDKit standalone is a ready to use version of [alddesign/crudkit](https://github.com/alddesign/crudkit). So you dont need to deal with setting up a laravel project and composer.
 
-Crudkit-standalone is a ready to use laravel project with crudkit installed. (no need to deal with composer).
-If you want to integrate crudkit into an existing laravel project check out [alddesign/crudkit](https://github.com/alddesign/crudkit)
+It is configured to run the included sample database by default.
 
 ## Getting started
-For the first steps check out: [readme-installation](./readme-installation.md)
+* An Apache 2 webserver with PHP version >= 8.0.2 is needed.
+* Extract the `crudkit.zip` and put the "crudkit" folder to your webservers `htdocs` directory. 
+* This is your laravel root directory from now on.
+* The next steps are the same as for the original project. So please see "Setup on Webserver" section of the original project: [readme-installation#setup-on-webserver](https://github.com/alddesign/crudkit/blob/master/readme-installation.md#setup-on-webserver).
