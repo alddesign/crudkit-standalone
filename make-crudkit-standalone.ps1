@@ -18,7 +18,6 @@ if($makeApiDoc)
     . $makeApiDocPs1;
 }
 
-
 #Remove unwanted files
 cd $PSScriptRoot
 Write-Host "Deleting hot files..." -ForegroundColor Yellow;
