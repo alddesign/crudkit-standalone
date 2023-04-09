@@ -5,7 +5,7 @@ I want that shit in the repo, cause, ...i need it...
 #>
 
 # CONFIG -------------------------------------------------------------------------------------------------------
-$makeApiDoc = $false;
+$makeApiDoc = $true;
 $makeApiDocDir = "..\crudkit\vendor\alddesign\crudkit\make-api-doc"; #Path to the api-doc building dir
 $makeApiDocPs1 = ".\make-api-doc.ps1"; #Name of the powershell script in that folder, use .\ syntax
 $7zipExe = 'C:\Program Files\7-Zip\7z.exe';
